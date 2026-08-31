@@ -1,0 +1,47 @@
+{
+  "site": {
+    "name": "Jonah Gomna",
+    "title": "Future Computer Engineer",
+    "focus": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision",
+      "Software Development"
+    ]
+  },
+  "education": [
+    {
+      "institution": "Ahmadu Bello University, Zaria",
+      "program": "B.Eng. Computer Engineering"
+    }
+  ],
+  "skills": [
+    "Python",
+    "HTML5",
+    "CSS3",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "PyQt"
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI-Based Chest X-ray Analysis System",
+      "category": "Final Year Project",
+      "description": "AI-based early tuberculosis detection from chest X-ray images."
+    },
+    {
+      "id": 2,
+      "title": "Intelligent Exam Hall Monitoring System",
+      "category": "Computer Vision",
+      "description": "Computer-vision monitoring concept for examination environments."
+    },
+    {
+      "id": 3,
+      "title": "Mechatronics Mini Project",
+      "category": "Engineering",
+      "description": "Computing and physical-system engineering project work."
+    }
+  ]
+}
